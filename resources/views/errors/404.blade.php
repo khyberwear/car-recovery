@@ -27,7 +27,6 @@
                         class="btn btn-primary btn-sm mb-2">{{ $btn->text }}</a>
                 @endforeach
             </div>
-            <p class="mt-3 text-secondary">The page you are looking for does not exist.</p>
         </div>
     </div>
 </body>
